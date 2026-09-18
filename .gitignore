@@ -1,0 +1,6 @@
+server/.env
+client/.env
+server/public/*.pdf
+client/dist
+server/node_modules
+client/node_modules
